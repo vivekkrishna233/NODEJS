@@ -1,0 +1,2 @@
+welcoe to learn node js 
+role: Associate software enginneer
